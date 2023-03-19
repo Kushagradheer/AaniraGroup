@@ -1587,6 +1587,7 @@ section {
 
 .content-container {
   padding: 75px;
+  margin: 10px 0px;
 }
 
 .col-container:after {
