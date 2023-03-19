@@ -1223,9 +1223,9 @@ section {
   padding-right: 50px;
 }
 
-.portfolio .portfolio-wrap:hover img {
+/* .portfolio .portfolio-wrap:hover img {
   transform: scale(1.1);
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details Section

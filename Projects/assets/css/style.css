@@ -810,6 +810,10 @@ section {
   background: rgba(21, 21, 21, 0.6);
 }
 
+.portfolio .portfolio-wrap:hover {
+  transform: none !important;
+}
+
 .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(21, 21, 21, 0.6);
@@ -876,15 +880,15 @@ section {
 }
 
 .portfolio .portfolio-wrap:hover::before {
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 .portfolio .portfolio-wrap:hover img {
-  transform: scale(1.2);
+  /* transform: scale(1.2); */
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 /*--------------------------------------------------------------
@@ -1669,4 +1673,8 @@ img {
 
 .container{
   max-width: 1500px !important;
+}
+
+.portfolio .portfolio-wrap:hover img {
+  transform: scale(1);
 }
