@@ -259,14 +259,18 @@ section {
   padding: 0;
 }
 
-.topbar .contact-info {
-  flex-wrap: wrap;
-  justify-content: center;
+.topbar .contact-info{
+  width: 100%;
+  justify-content: space-between;
 }
 
 @media (max-width: 500px) {
   .topbar .contact-info i {
     margin: 5px 0px;
+  }
+  .topbar .contact-info {
+    flex-wrap: wrap;
+    justify-content: center;
   }
 }
 
