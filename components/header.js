@@ -22,8 +22,8 @@ class Header extends HTMLElement {
           <li><a href="#team">CEO</a></li>
           <li class="dropdown"><a href="#"><span>Schemes</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="Projects/index.html">Aanira - I</a></li>
-              <li><a href="Projects/cpw_index.html">Aanira Poly-Plast</a></li>
+              <li><a href="/Projects/index.html">Aanira - I</a></li>
+              <li><a href="/Projects/cpw_index.html">Aanira Poly-Plast</a></li>
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
