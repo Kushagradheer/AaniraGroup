@@ -1,3 +1,16 @@
+header{
+  position: fixed;
+  width: 100vw;
+}
+
+#hero{
+  padding-top: 180px;
+}
+
+#main section{
+  padding-top: 100px;
+}
+
 .hero-img {
   width: 30% !important;
 }
